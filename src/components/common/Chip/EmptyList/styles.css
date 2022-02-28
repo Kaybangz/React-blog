@@ -1,0 +1,19 @@
+.emptyList__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.emptyList__container img{
+    max-width: 300px;
+    width: 100%;
+}
+
+.emptyList__container h1{
+    max-width: 300px;
+    width: 100%;
+    text-align: center;
+    color: #495057;
+}

@@ -1,0 +1,12 @@
+.home__header h1 {
+  color: #495057;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.home__header p {
+  font-weight: 500;
+  color: #343a40;
+  font-size: 1.2rem;
+  margin-bottom: 0.7rem;
+}
